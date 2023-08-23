@@ -6,7 +6,7 @@
     <title>Admin page</title>
 
     <!-- custom css file link -->
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
     <div class="container">
@@ -23,7 +23,6 @@
     </div>
 </div>
 
-<script src="index.js"></script>
 
 </body>
 </html>
