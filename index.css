@@ -4,3 +4,57 @@ body{
     background-repeat: no-repeat;
      opacity: 0.8;
 }
+.container{
+    width: 40%;
+    min-width:450px;
+    position:absolute;
+     transform: translate(-50%, -50%);
+     top: 50%;
+     left: 50%;
+     background: #066acd;
+     min-height: 100px;
+     border-radius: 10px;
+}
+h2{
+    width: 100%;
+    font-weight: 600;
+   text-align: center;
+   color: white;
+   font-size: 35px;
+   margin-bottom: 10px;
+}
+.box-item{
+    position: relative;
+    padding: 30px 20px;
+}
+.box-item input{
+    width:50%;
+    height: 30px;
+    font-family: 'poppins', sans-serif;
+    font-size: 15px;
+    border: 2px solid #066acd;
+    padding: 10px;
+    color: #111111;
+    font-weight: 500;
+    position: relative;
+    border-radius: 5px;
+}
+.box-item button{
+    position: relative;
+    float: right;
+    width: 20%;
+    height: 45px;
+    border-radius: 5px;
+    font-family: 'poppins',sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: white;
+    border: none;
+    color: #0d75ec;
+    outline: none;
+}
+.box-item span{
+    position:relative;
+    font-size: 20px;
+    color: white;
+}
