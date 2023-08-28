@@ -6,7 +6,7 @@
     <title>Register form</title>
 
     <!-- custom css file link -->
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
     <div class="container">
@@ -15,7 +15,7 @@
             <input type="text" name="name" required placeholder="enter your name">
             <input type="email" name="email" required placeholder="enter your email">
             <input type="password" name="password" required placeholder="enter your password">
-            <input type="password" name="confirm password" required placeholder="confirm your password">
+            <input type="password" name="cpassword" required placeholder="confirm your password">
             <select name="user_type">
               <option value="user"> User </option>
               <option value="admin"> Admin </option>    
