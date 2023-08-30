@@ -59,7 +59,7 @@
  }
 
  .container .content .btn:hover{
-    color: crimson;
+    background: crimson;
  }
 
  .form-container{
@@ -78,6 +78,7 @@
     box-shadow: 0 5px 10px rgba(0,0,0,.1);
     background: #fff;
     text-align: center;
+    width: 500px;
  }
 
  .form-container form h3{
